@@ -9,7 +9,6 @@ idleSound:"smelter"
 updateEffect:"smoke"
 category:"production"
 itemCapacity:1
-research: "Crystal farm"
 consumes:{
 power:5
 }
