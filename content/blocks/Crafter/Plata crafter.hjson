@@ -17,12 +17,12 @@ requirements:[
 consumes:{
 power:2
 items:[
- plastanium/25
  copper/5
  lead/10
 ]
 }
 
 outputItem:{item:"Plata",amount:1}
+
 
 
