@@ -8,7 +8,7 @@ idleSound:"smelter"
 updateEffect:"smoke"
 category:"crafting"
 itemCapacity:25
-research:"graphite-press"
+research:"graphitePress"
 requirements:[
 {item:"copper",amount:65}
 {item:"silicon",amount:100}
@@ -24,4 +24,5 @@ items:[
 }
 
 outputItem:{item:"Plata",amount:1}
+
 
